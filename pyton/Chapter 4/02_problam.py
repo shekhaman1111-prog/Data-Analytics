@@ -1,0 +1,29 @@
+# write a program to input eigt numbersfrom the user and display all the unique
+# numbers (once).
+
+s = set()
+n= input("enter the number")
+s.add(int(n))
+
+n= input("enter the number")
+s.add(int(n))
+
+n= input("enter the number")
+s.add(int(n))
+
+n= input("enter the number")
+s.add(int(n))
+
+n= input("enter the number")
+s.add(int(n))
+
+n= input("enter the number")
+s.add(int(n))
+
+n= input("enter the number")
+s.add(int(n))
+
+n= input("enter the number")
+s.add(int(n))
+
+print(s)
